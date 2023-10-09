@@ -15,7 +15,9 @@
   <description>Demo project for Issue 1715</description>
   <properties>
     <java.version>17</java.version>
-    <glassfish-jaxb.version>4.0.2</glassfish-jaxb.version>
+    <glassfish-jaxb.version>4.0.4-SNAPSHOT</glassfish-jaxb.version>
+<!--    <glassfish-jaxb.version>4.0.3</glassfish-jaxb.version>-->
+<!--    <glassfish-jaxb.version>3.0.2</glassfish-jaxb.version>-->
   </properties>
   <dependencies>
     <dependency>
